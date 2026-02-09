@@ -16,7 +16,8 @@ This lab explores clustering techniques on the Wine dataset from the sklearn lib
 - Choosing between K-Means and K-Medoids depends on dataset characteristics and interpretability requirements.  
 
 ## Challenges
-- Installing and using PyClustering for K-Medoids required a compatible environment.  
+- Installing and using PyClustering for K-Medoids required a compatible environment.
+- Having issue with PyClaster in arm64 Apple Silicon, then decided to do it in Google Colab.
 - Deciding which features to visualize (Alcohol vs Flavanoids) for clear cluster separation.  
 
 ## Conclusion
